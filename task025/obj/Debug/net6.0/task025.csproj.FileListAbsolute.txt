@@ -1,0 +1,15 @@
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\task025.csproj.AssemblyReference.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\task025.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\task025.AssemblyInfoInputs.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\task025.AssemblyInfo.cs
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\task025.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\bin\Debug\net6.0\task025.exe
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\bin\Debug\net6.0\task025.deps.json
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\bin\Debug\net6.0\task025.runtimeconfig.json
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\bin\Debug\net6.0\task025.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\bin\Debug\net6.0\task025.pdb
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\task025.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\refint\task025.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\task025.pdb
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\task025.genruntimeconfig.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem\task025\obj\Debug\net6.0\ref\task025.dll
