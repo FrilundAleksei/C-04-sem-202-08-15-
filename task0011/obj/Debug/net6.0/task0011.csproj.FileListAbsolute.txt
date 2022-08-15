@@ -1,0 +1,15 @@
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\bin\Debug\net6.0\task0011.exe
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\bin\Debug\net6.0\task0011.deps.json
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\bin\Debug\net6.0\task0011.runtimeconfig.json
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\bin\Debug\net6.0\task0011.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\bin\Debug\net6.0\task0011.pdb
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\task0011.csproj.AssemblyReference.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\task0011.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\task0011.AssemblyInfoInputs.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\task0011.AssemblyInfo.cs
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\task0011.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\task0011.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\refint\task0011.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\task0011.pdb
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\task0011.genruntimeconfig.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#04-sem (202-08-15)\task0011\obj\Debug\net6.0\ref\task0011.dll
